@@ -1,0 +1,14 @@
+let Social_Network = {
+    name: "Mark",
+    created: 1990,
+    Comments: [
+ 	{
+	    name:"Carlos",
+	    comment1:"Izi",
+        },
+        {
+	    name:"Carlos2",
+	    comment2:"Izi2",
+        }
+   ]
+}
